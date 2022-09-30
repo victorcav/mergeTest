@@ -2,6 +2,8 @@
   
 int main(){
 
+  // Programa que realiza a adição:
+  
   int a = 0, b;
   
   b = a + 1;
